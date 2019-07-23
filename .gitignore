@@ -1,1 +1,2 @@
-/.idea
+tutorials/src/videos/*.mp4
+tutorials/src/yolo-coco/yolov3.weights
